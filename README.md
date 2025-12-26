@@ -5,15 +5,15 @@ Além de gerar um resumo executivo para disparos.
 
 Ele inclui:
 
-métricas NPS
-top 3 tópicos
-principais dores
-status executivo
-resumo executivo automático
+métricas NPS, 
+top 3 tópicos, 
+principais dores, 
+status executivo, 
+resumo executivo automático, 
 
 Perfeito para:
 
-governança
-comitê
-negociação com sellers
+governança, 
+comitê, 
+negociação com sellers, 
 priorização de ações
